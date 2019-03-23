@@ -99,7 +99,7 @@ special_mode_mask values:
       <ISPPreview>tulip_s5k2l7_ofilm_global_i_snapshot_hdr</ISPPreview>
       <ISPSnapshot>tulip_s5k2l7_ofilm_global_i_snapshot_hdr</ISPSnapshot>
       <ISPVideo>tulip_s5k2l7_ofilm_global_i_video</ISPVideo>
-      <CPPPreview>tulip_s5k2l7_ofilm_global_i_cpp_snapshot_hdr</CPPPreview>
+      <CPPPreview>tulip_s5k2l7_ofilm_global_i_cpp_preview</CPPPreview>
       <CPPSnapshot>tulip_s5k2l7_ofilm_global_i_cpp_snapshot_hdr</CPPSnapshot>
       <CPPVideo>tulip_s5k2l7_ofilm_global_i_cpp_video</CPPVideo>
       <CPPLiveshot>tulip_s5k2l7_ofilm_global_i_cpp_liveshot</CPPLiveshot>
